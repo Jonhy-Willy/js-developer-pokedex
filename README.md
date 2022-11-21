@@ -1,11 +1,11 @@
-# NPokedex DIO
+# Pokédex DIO
 
 ![preview](./.github/preview1.png)
 ![preview](./.github/preview2.png)
 
-> Trilha Explorer
+> Trilha Javascript Developer DIO
 
-Projeto construído no evento Next Level Week edição Copa Do Mundo da Rocketseat.
+Projeto construído no Bootcamp Orange Tech na plataforma da DIO.
 
 [ 🔗 Clique aqui para acessar](https://projeto-nlw-copa-rocketseat-se2n.vercel.app/)
 
@@ -18,7 +18,7 @@ Projeto construído no evento Next Level Week edição Copa Do Mundo da Rocketse
 
 ## 💻 Projeto
 
-O NLW Copa é um calendário onde é possível ver os dias e horários dos jogos da Copa Do Mundo do Catar 2022. Como desafio o professor Mayk Brito pediu que o projeto fosse além do que o que foi feito em aula, sendo assim implementei um menu responsivo que manda para a página do calendário e também adicionei todos os jogos da fase de grupos.
+Uma plataforma web 100% responsiva para listagem e visualização de pokémons. As características de cada pokémon como o tipo, imagem, nome, entre outros, foram possíveis de se mostrar graças ao uso da api rest PokéApi.
 
 # ❤ Contato
 
