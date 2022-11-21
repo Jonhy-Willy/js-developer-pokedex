@@ -7,6 +7,14 @@ body {
     background-color: #f6f8fc;
 }
 
+.img-content img {
+    display: flex;
+    width: 100%;
+    height: auto;
+    object-fit: cover;
+    justify-content: center;
+}
+
 .content {
     width: 100vw;
     height: 100vh;
@@ -20,5 +28,11 @@ body {
         height: auto;
         margin: 1rem auto;
         border-radius: 1rem;
+    }
+    .img-content img {
+        max-width: 992px;
+        height: auto;
+        margin: 1rem auto;
+        border-radius: 1rem; 
     }
 }
