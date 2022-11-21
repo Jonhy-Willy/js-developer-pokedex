@@ -1,7 +1,6 @@
-# NPokedex DIO
+# Pokédex DIO
 
 ![preview](./.github/preview1.png)
-![preview](./.github/preview2.png)
 
 > Trilha Explorer
 
