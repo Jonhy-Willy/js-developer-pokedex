@@ -7,7 +7,7 @@
 
 Projeto construído no evento Next Level Week edição Copa Do Mundo da Rocketseat.
 
-[ 🔗 Clique aqui para acessar](https://projeto-nlw-copa-rocketseat-se2n.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://pokedex-orangetech-dio.vercel.app/)
 
 ## 🚀 Tecnologias
 
