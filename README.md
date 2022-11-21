@@ -1,13 +1,12 @@
 # Pokédex DIO
 
 ![preview](./.github/preview1.png)
-![preview](./.github/preview2.png)
 
 > Trilha Javascript Developer DIO
 
 Projeto construído no Bootcamp Orange Tech na plataforma da DIO.
 
-[ 🔗 Clique aqui para acessar](https://projeto-nlw-copa-rocketseat-se2n.vercel.app/)
+[ 🔗 Clique aqui para acessar](https://pokedex-orangetech-dio.vercel.app/)
 
 ## 🚀 Tecnologias
 
